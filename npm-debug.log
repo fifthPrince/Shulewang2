@@ -1,0 +1,246 @@
+0 info it worked if it ends with ok
+1 verbose cli [ 'C:\\Program Files\\nodejs\\node.exe',
+1 verbose cli   'C:\\ShuLeWang\\node_modules\\npm\\bin\\npm-cli.js',
+1 verbose cli   'install',
+1 verbose cli   'node-uuid' ]
+2 info using npm@2.15.9
+3 info using node@v4.6.1
+4 verbose install initial load of C:\ShuLeWang\package.json
+5 warn package.json shulewang@1.0.0 No repository field.
+6 verbose installManyTop reading scoped package data from C:\ShuLeWang\node_modules\accepts\package.json
+7 verbose installManyTop reading scoped package data from C:\ShuLeWang\node_modules\align-text\package.json
+8 verbose installManyTop reading scoped package data from C:\ShuLeWang\node_modules\amdefine\package.json
+9 verbose installManyTop reading scoped package data from C:\ShuLeWang\node_modules\array-flatten\package.json
+10 verbose installManyTop reading scoped package data from C:\ShuLeWang\node_modules\asap\package.json
+11 verbose installManyTop reading scoped package data from C:\ShuLeWang\node_modules\async\package.json
+12 verbose installManyTop reading scoped package data from C:\ShuLeWang\node_modules\balanced-match\package.json
+13 verbose installManyTop reading scoped package data from C:\ShuLeWang\node_modules\body-parser\package.json
+14 verbose installManyTop reading scoped package data from C:\ShuLeWang\node_modules\brace-expansion\package.json
+15 verbose installManyTop reading scoped package data from C:\ShuLeWang\node_modules\bytes\package.json
+16 verbose installManyTop reading scoped package data from C:\ShuLeWang\node_modules\camelcase\package.json
+17 verbose installManyTop reading scoped package data from C:\ShuLeWang\node_modules\center-align\package.json
+18 verbose installManyTop reading scoped package data from C:\ShuLeWang\node_modules\cliui\package.json
+19 verbose installManyTop reading scoped package data from C:\ShuLeWang\node_modules\concat-map\package.json
+20 verbose installManyTop reading scoped package data from C:\ShuLeWang\node_modules\content-disposition\package.json
+21 verbose installManyTop reading scoped package data from C:\ShuLeWang\node_modules\content-type\package.json
+22 verbose installManyTop reading scoped package data from C:\ShuLeWang\node_modules\cookie\package.json
+23 verbose installManyTop reading scoped package data from C:\ShuLeWang\node_modules\cookie-signature\package.json
+24 verbose installManyTop reading scoped package data from C:\ShuLeWang\node_modules\core-util-is\package.json
+25 verbose installManyTop reading scoped package data from C:\ShuLeWang\node_modules\debug\package.json
+26 verbose installManyTop reading scoped package data from C:\ShuLeWang\node_modules\decamelize\package.json
+27 verbose installManyTop reading scoped package data from C:\ShuLeWang\node_modules\define-properties\package.json
+28 verbose installManyTop reading scoped package data from C:\ShuLeWang\node_modules\depd\package.json
+29 verbose installManyTop reading scoped package data from C:\ShuLeWang\node_modules\destroy\package.json
+30 verbose installManyTop reading scoped package data from C:\ShuLeWang\node_modules\ee-first\package.json
+31 verbose installManyTop reading scoped package data from C:\ShuLeWang\node_modules\encodeurl\package.json
+32 verbose installManyTop reading scoped package data from C:\ShuLeWang\node_modules\escape-html\package.json
+33 verbose installManyTop reading scoped package data from C:\ShuLeWang\node_modules\etag\package.json
+34 verbose installManyTop reading scoped package data from C:\ShuLeWang\node_modules\express\package.json
+35 verbose installManyTop reading scoped package data from C:\ShuLeWang\node_modules\express-generator\package.json
+36 verbose installManyTop reading scoped package data from C:\ShuLeWang\node_modules\express-handlebars\package.json
+37 verbose installManyTop reading scoped package data from C:\ShuLeWang\node_modules\finalhandler\package.json
+38 verbose installManyTop reading scoped package data from C:\ShuLeWang\node_modules\foreach\package.json
+39 verbose installManyTop reading scoped package data from C:\ShuLeWang\node_modules\forwarded\package.json
+40 verbose installManyTop reading scoped package data from C:\ShuLeWang\node_modules\fresh\package.json
+41 verbose installManyTop reading scoped package data from C:\ShuLeWang\node_modules\function-bind\package.json
+42 verbose installManyTop reading scoped package data from C:\ShuLeWang\node_modules\glob\package.json
+43 verbose installManyTop reading scoped package data from C:\ShuLeWang\node_modules\graceful-fs\package.json
+44 verbose installManyTop reading scoped package data from C:\ShuLeWang\node_modules\handlebars\package.json
+45 verbose installManyTop reading scoped package data from C:\ShuLeWang\node_modules\http-errors\package.json
+46 verbose installManyTop reading scoped package data from C:\ShuLeWang\node_modules\iconv-lite\package.json
+47 verbose installManyTop reading scoped package data from C:\ShuLeWang\node_modules\inflight\package.json
+48 verbose installManyTop reading scoped package data from C:\ShuLeWang\node_modules\inherits\package.json
+49 verbose installManyTop reading scoped package data from C:\ShuLeWang\node_modules\ipaddr.js\package.json
+50 verbose installManyTop reading scoped package data from C:\ShuLeWang\node_modules\is-buffer\package.json
+51 verbose installManyTop reading scoped package data from C:\ShuLeWang\node_modules\isarray\package.json
+52 verbose installManyTop reading scoped package data from C:\ShuLeWang\node_modules\jade\package.json
+53 verbose installManyTop reading scoped package data from C:\ShuLeWang\node_modules\kind-of\package.json
+54 verbose installManyTop reading scoped package data from C:\ShuLeWang\node_modules\lazy-cache\package.json
+55 verbose installManyTop reading scoped package data from C:\ShuLeWang\node_modules\log4js\package.json
+56 verbose installManyTop reading scoped package data from C:\ShuLeWang\node_modules\longest\package.json
+57 verbose installManyTop reading scoped package data from C:\ShuLeWang\node_modules\media-typer\package.json
+58 verbose installManyTop reading scoped package data from C:\ShuLeWang\node_modules\merge-descriptors\package.json
+59 verbose installManyTop reading scoped package data from C:\ShuLeWang\node_modules\methods\package.json
+60 verbose installManyTop reading scoped package data from C:\ShuLeWang\node_modules\mime\package.json
+61 verbose installManyTop reading scoped package data from C:\ShuLeWang\node_modules\mime-db\package.json
+62 verbose installManyTop reading scoped package data from C:\ShuLeWang\node_modules\mime-types\package.json
+63 verbose installManyTop reading scoped package data from C:\ShuLeWang\node_modules\minimatch\package.json
+64 verbose installManyTop reading scoped package data from C:\ShuLeWang\node_modules\minimist\package.json
+65 verbose installManyTop reading scoped package data from C:\ShuLeWang\node_modules\mo\package.json
+66 verbose installManyTop reading scoped package data from C:\ShuLeWang\node_modules\mo.tar\package.json
+67 verbose installManyTop reading scoped package data from C:\ShuLeWang\node_modules\ms\package.json
+68 verbose installManyTop reading scoped package data from C:\ShuLeWang\node_modules\mysql\package.json
+69 verbose installManyTop reading scoped package data from C:\ShuLeWang\node_modules\nan\package.json
+70 verbose installManyTop reading scoped package data from C:\ShuLeWang\node_modules\negotiator\package.json
+71 verbose installManyTop reading scoped package data from C:\ShuLeWang\node_modules\npm\package.json
+72 verbose installManyTop reading scoped package data from C:\ShuLeWang\node_modules\object-keys\package.json
+73 verbose installManyTop reading scoped package data from C:\ShuLeWang\node_modules\object.assign\package.json
+74 verbose installManyTop reading scoped package data from C:\ShuLeWang\node_modules\on-finished\package.json
+75 verbose installManyTop reading scoped package data from C:\ShuLeWang\node_modules\once\package.json
+76 verbose installManyTop reading scoped package data from C:\ShuLeWang\node_modules\optimist\package.json
+77 verbose installManyTop reading scoped package data from C:\ShuLeWang\node_modules\parseurl\package.json
+78 verbose installManyTop reading scoped package data from C:\ShuLeWang\node_modules\path-is-absolute\package.json
+79 verbose installManyTop reading scoped package data from C:\ShuLeWang\node_modules\path-to-regexp\package.json
+80 verbose installManyTop reading scoped package data from C:\ShuLeWang\node_modules\promise\package.json
+81 verbose installManyTop reading scoped package data from C:\ShuLeWang\node_modules\proxy-addr\package.json
+82 verbose installManyTop reading scoped package data from C:\ShuLeWang\node_modules\pug\package.json
+83 verbose installManyTop reading scoped package data from C:\ShuLeWang\node_modules\qs\package.json
+84 verbose installManyTop reading scoped package data from C:\ShuLeWang\node_modules\range-parser\package.json
+85 verbose installManyTop reading scoped package data from C:\ShuLeWang\node_modules\raw-body\package.json
+86 verbose installManyTop reading scoped package data from C:\ShuLeWang\node_modules\readable-stream\package.json
+87 verbose installManyTop reading scoped package data from C:\ShuLeWang\node_modules\repeat-string\package.json
+88 verbose installManyTop reading scoped package data from C:\ShuLeWang\node_modules\right-align\package.json
+89 verbose installManyTop reading scoped package data from C:\ShuLeWang\node_modules\semver\package.json
+90 verbose installManyTop reading scoped package data from C:\ShuLeWang\node_modules\send\package.json
+91 verbose installManyTop reading scoped package data from C:\ShuLeWang\node_modules\serve-static\package.json
+92 verbose installManyTop reading scoped package data from C:\ShuLeWang\node_modules\setprototypeof\package.json
+93 verbose installManyTop reading scoped package data from C:\ShuLeWang\node_modules\source-map\package.json
+94 verbose installManyTop reading scoped package data from C:\ShuLeWang\node_modules\sqlite3\package.json
+95 verbose installManyTop reading scoped package data from C:\ShuLeWang\node_modules\statuses\package.json
+96 verbose installManyTop reading scoped package data from C:\ShuLeWang\node_modules\string_decoder\package.json
+97 verbose installManyTop reading scoped package data from C:\ShuLeWang\node_modules\type-is\package.json
+98 verbose installManyTop reading scoped package data from C:\ShuLeWang\node_modules\uglify-js\package.json
+99 verbose installManyTop reading scoped package data from C:\ShuLeWang\node_modules\uglify-to-browserify\package.json
+100 verbose installManyTop reading scoped package data from C:\ShuLeWang\node_modules\unpipe\package.json
+101 verbose installManyTop reading scoped package data from C:\ShuLeWang\node_modules\utils-merge\package.json
+102 verbose installManyTop reading scoped package data from C:\ShuLeWang\node_modules\vary\package.json
+103 verbose installManyTop reading scoped package data from C:\ShuLeWang\node_modules\window-size\package.json
+104 verbose installManyTop reading scoped package data from C:\ShuLeWang\node_modules\wordwrap\package.json
+105 verbose installManyTop reading scoped package data from C:\ShuLeWang\node_modules\wrappy\package.json
+106 verbose installManyTop reading scoped package data from C:\ShuLeWang\node_modules\yargs\package.json
+107 info package.json function-bind@1.1.0 No license field.
+108 info package.json longest@1.0.1 license should be a valid SPDX license expression
+109 info package.json mime@1.3.4 No license field.
+110 info package.json ms@0.7.1 No license field.
+111 info package.json optimist@0.6.1 license should be a valid SPDX license expression
+112 info package.json string_decoder@0.10.31 string_decoder is also the name of a node core module.
+113 info package.json utils-merge@1.0.0 No license field.
+114 info package.json window-size@0.1.0 No license field.
+115 info package.json npm@2.15.9 Non-dependency in bundleDependencies: ansi-regex
+116 info package.json npm@2.15.9 Non-dependency in bundleDependencies: imurmurhash
+117 verbose readDependencies loading dependencies from C:\ShuLeWang\package.json
+118 silly cache add args [ 'node-uuid@^1.4.7', null ]
+119 verbose cache add spec node-uuid@^1.4.7
+120 silly cache add parsed spec Result {
+120 silly cache add   raw: 'node-uuid@^1.4.7',
+120 silly cache add   scope: null,
+120 silly cache add   name: 'node-uuid',
+120 silly cache add   rawSpec: '^1.4.7',
+120 silly cache add   spec: '>=1.4.7 <2.0.0',
+120 silly cache add   type: 'range' }
+121 silly addNamed node-uuid@>=1.4.7 <2.0.0
+122 verbose addNamed ">=1.4.7 <2.0.0" is a valid semver range for node-uuid
+123 silly addNameRange { name: 'node-uuid', range: '>=1.4.7 <2.0.0', hasData: false }
+124 silly mapToRegistry name node-uuid
+125 silly mapToRegistry using default registry
+126 silly mapToRegistry registry https://registry.npmjs.org/
+127 silly mapToRegistry data Result {
+127 silly mapToRegistry   raw: 'node-uuid',
+127 silly mapToRegistry   scope: null,
+127 silly mapToRegistry   name: 'node-uuid',
+127 silly mapToRegistry   rawSpec: '',
+127 silly mapToRegistry   spec: 'latest',
+127 silly mapToRegistry   type: 'tag' }
+128 silly mapToRegistry uri https://registry.npmjs.org/node-uuid
+129 verbose addNameRange registry:https://registry.npmjs.org/node-uuid not in flight; fetching
+130 verbose request uri https://registry.npmjs.org/node-uuid
+131 verbose request no auth needed
+132 info attempt registry request try #1 at 13:16:58
+133 verbose request id 9df33967909abbe8
+134 http request GET https://registry.npmjs.org/node-uuid
+135 http 200 https://registry.npmjs.org/node-uuid
+136 verbose headers { server: 'CouchDB/1.5.0 (Erlang OTP/R16B03)',
+136 verbose headers   etag: '"RIPYK5LF0VPLIZLP3WD9OAH"',
+136 verbose headers   'content-type': 'application/json',
+136 verbose headers   'content-encoding': 'gzip',
+136 verbose headers   'cache-control': 'max-age=300',
+136 verbose headers   'content-length': '7198',
+136 verbose headers   'accept-ranges': 'bytes',
+136 verbose headers   date: 'Tue, 01 Nov 2016 05:17:00 GMT',
+136 verbose headers   via: '1.1 varnish',
+136 verbose headers   age: '202',
+136 verbose headers   connection: 'keep-alive',
+136 verbose headers   'x-served-by': 'cache-lcy1122-LCY',
+136 verbose headers   'x-cache': 'HIT',
+136 verbose headers   'x-cache-hits': '2',
+136 verbose headers   'x-timer': 'S1477977420.089015,VS0,VE0',
+136 verbose headers   vary: 'Accept-Encoding' }
+137 silly get cb [ 200,
+137 silly get   { server: 'CouchDB/1.5.0 (Erlang OTP/R16B03)',
+137 silly get     etag: '"RIPYK5LF0VPLIZLP3WD9OAH"',
+137 silly get     'content-type': 'application/json',
+137 silly get     'content-encoding': 'gzip',
+137 silly get     'cache-control': 'max-age=300',
+137 silly get     'content-length': '7198',
+137 silly get     'accept-ranges': 'bytes',
+137 silly get     date: 'Tue, 01 Nov 2016 05:17:00 GMT',
+137 silly get     via: '1.1 varnish',
+137 silly get     age: '202',
+137 silly get     connection: 'keep-alive',
+137 silly get     'x-served-by': 'cache-lcy1122-LCY',
+137 silly get     'x-cache': 'HIT',
+137 silly get     'x-cache-hits': '2',
+137 silly get     'x-timer': 'S1477977420.089015,VS0,VE0',
+137 silly get     vary: 'Accept-Encoding' } ]
+138 verbose get saving node-uuid to C:\Program Files\nodejs\cache\registry.npmjs.org\node-uuid\.cache.json
+139 verbose correctMkdir C:\Program Files\nodejs\cache correctMkdir not in flight; initializing
+140 silly addNameRange number 2 { name: 'node-uuid', range: '>=1.4.7 <2.0.0', hasData: true }
+141 silly addNameRange versions [ 'node-uuid',
+141 silly addNameRange   [ '1.2.0',
+141 silly addNameRange     '1.3.0',
+141 silly addNameRange     '1.3.1',
+141 silly addNameRange     '1.3.2',
+141 silly addNameRange     '1.1.0',
+141 silly addNameRange     '1.0.0',
+141 silly addNameRange     '1.3.3',
+141 silly addNameRange     '1.4.0',
+141 silly addNameRange     '1.4.1',
+141 silly addNameRange     '1.4.2',
+141 silly addNameRange     '1.4.3',
+141 silly addNameRange     '1.4.6',
+141 silly addNameRange     '1.4.7' ] ]
+142 silly addNamed node-uuid@1.4.7
+143 verbose addNamed "1.4.7" is a plain semver version for node-uuid
+144 silly mapToRegistry name node-uuid
+145 silly mapToRegistry using default registry
+146 silly mapToRegistry registry https://registry.npmjs.org/
+147 silly mapToRegistry data Result {
+147 silly mapToRegistry   raw: 'node-uuid',
+147 silly mapToRegistry   scope: null,
+147 silly mapToRegistry   name: 'node-uuid',
+147 silly mapToRegistry   rawSpec: '',
+147 silly mapToRegistry   spec: 'latest',
+147 silly mapToRegistry   type: 'tag' }
+148 silly mapToRegistry uri https://registry.npmjs.org/node-uuid
+149 verbose addRemoteTarball https://registry.npmjs.org/node-uuid/-/node-uuid-1.4.7.tgz not in flight; adding
+150 verbose addRemoteTarball [ 'https://registry.npmjs.org/node-uuid/-/node-uuid-1.4.7.tgz',
+150 verbose addRemoteTarball   '6da5a17668c4b3dd59623bda11cf7fa4c1f60a6f' ]
+151 info retry fetch attempt 1 at 13:17:00
+152 info attempt registry request try #1 at 13:17:00
+153 http fetch GET https://registry.npmjs.org/node-uuid/-/node-uuid-1.4.7.tgz
+154 http fetch 200 https://registry.npmjs.org/node-uuid/-/node-uuid-1.4.7.tgz
+155 silly fetchAndShaCheck shasum 6da5a17668c4b3dd59623bda11cf7fa4c1f60a6f
+156 verbose addTmpTarball C:\Users\eguanwu\AppData\Local\Temp\npm-11352-19aae8af\registry.npmjs.org\node-uuid\-\node-uuid-1.4.7.tgz not in flight; adding
+157 verbose addTmpTarball already have metadata; skipping unpack for node-uuid@1.4.7
+158 verbose correctMkdir C:\Program Files\nodejs\cache correctMkdir not in flight; initializing
+159 verbose stack Error: EPERM: operation not permitted, mkdir 'C:\Program Files\nodejs\cache\node-uuid'
+159 verbose stack     at Error (native)
+160 verbose cwd C:\ShuLeWang
+161 error Windows_NT 6.1.7601
+162 error argv "C:\\Program Files\\nodejs\\node.exe" "C:\\ShuLeWang\\node_modules\\npm\\bin\\npm-cli.js" "install" "node-uuid"
+163 error node v4.6.1
+164 error npm  v2.15.9
+165 error path C:\Program Files\nodejs\cache\node-uuid
+166 error code EPERM
+167 error errno -4048
+168 error syscall mkdir
+169 error Error: EPERM: operation not permitted, mkdir 'C:\Program Files\nodejs\cache\node-uuid'
+169 error     at Error (native)
+169 error  { [Error: EPERM: operation not permitted, mkdir 'C:\Program Files\nodejs\cache\node-uuid']
+169 error   errno: -4048,
+169 error   code: 'EPERM',
+169 error   syscall: 'mkdir',
+169 error   path: 'C:\\Program Files\\nodejs\\cache\\node-uuid',
+169 error   parent: 'shulewang' }
+170 error Please try running this command again as root/Administrator.
+171 verbose exit [ -4048, true ]
